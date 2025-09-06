@@ -38,8 +38,6 @@ Code Structure:
 
 data/ - Folder containing the dataset files
 
-notebooks/ - Jupyter notebooks with data analysis and visualizations
-
 scripts/ - Python scripts used for data preprocessing or analysis (if any)
 
 README.md - Project documentation
